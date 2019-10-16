@@ -1,11 +1,7 @@
 title: Kinsale Green Printing
-email: michaeldevery@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   You can find how to print economically in Word, Excel, PDF and Powerpoint on this site.
 baseurl: ""
 url: ""
 
-# Build settings
 theme: minima
-plugins:
-  - jekyll-feed
