@@ -1,7 +1,7 @@
 title: Kinsale Green Printing
 description: >- # this means to ignore newlines until "baseurl:"
   You can find how to print economically in Word, Excel, PDF and Powerpoint on this site.
-baseurl: ""
-url: ""
+baseurl: "https://mickadoo.github.io"
+url: "https://mickadoo.github.io"
 
 theme: minima
