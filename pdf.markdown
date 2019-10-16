@@ -3,8 +3,6 @@ layout: page
 title: Printing a PDF file
 ---
 
-### Open the print dialog
-
 With the document open, choose "File" from the top left, and then "Print" from the menu. 
 
 Alternatively you can use the keyboard shortcut `Ctrl + P`.
